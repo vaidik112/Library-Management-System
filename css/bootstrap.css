@@ -68,7 +68,7 @@ audio,
 canvas,
 video {
   display: inline-block;
-  *display: inline;
+  *display: flex;
   *zoom: 1;
 }
 
